@@ -1,2 +1,2 @@
 # Edit_Pig
-Show partial codes to plot the circos and bar of gene editing pig
+Show partial codes to plot the circos and bar of the gene-editing pig
